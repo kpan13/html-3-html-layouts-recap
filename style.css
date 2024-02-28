@@ -1,0 +1,26 @@
+span {
+    display: inline-block;
+}
+body {
+    text-align: center;
+}
+#pic{
+    background-image:100%;
+}
+.pic1 img{
+    width: 100px;
+    height: 100px;
+}
+.pic2 img{
+    width: 100px;
+    height: 100px;
+}
+.pic3 img{
+    width: 100px;
+    height: 100px;
+}
+.pic4 img{
+    width: 100px;
+    height: 100px;
+
+}
